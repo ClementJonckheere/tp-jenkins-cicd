@@ -1,0 +1,39 @@
+# Dependencies
+node_modules/
+
+# Coverage
+coverage/
+*.lcov
+
+# Test results
+junit.xml
+
+# Logs
+*.log
+npm-debug.log*
+
+# Environment
+.env
+.env.local
+.env.*.local
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Build
+dist/
+build/
+
+# Docker
+.docker/
+
+# Jenkins
+.jenkins/
